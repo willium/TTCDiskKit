@@ -1,0 +1,9 @@
+Use this however you like.
+
+For percentages, do division.
+
+If you make something with it, show me, but you're free to use it.
+
+
+Notes:
+-I chose to return NSStrings rather than float values because in the situation where I used it, I wanted the values to be trimmed at the 2nd decimal place. I plan to release a new version of this in the future, with the ability to request different lengths and get percentages, etc.
